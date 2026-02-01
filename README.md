@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 - 💬 Ask me about **Arrays, Linked Lists, Trees and life**
-- 📫 How to reach me: **khushi.dayaramani@gmail.com**
+- 📫 How to reach me: **khushi.dayaramani1@gmail.com**
 - ⚡ Fun fact: **I am crazy**
 
 <hr/>
