@@ -15,9 +15,6 @@
 <h3>🌐 Connect with me</h3>
 
 <p align="center">
-  <a href="https://instagram.com/khussshi_06" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>
   &nbsp;
   <a href="https://www.leetcode.com/khushid06" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
